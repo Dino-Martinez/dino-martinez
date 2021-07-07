@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.makeschool.com/portfolio/dino-martinez](https://www.makeschool.com/portfolio/dino-martinez)
 
-- 📝 I regularly write articles on [https://dino-martinez-514.medium.com/](https://dino-martinez-514.medium.com/)
-
 - 💬 Ask me about **JavaScript, Algorithms, Math, Science**
 
 - 📫 How to reach me **dino.martinez.514@gmail.com**
@@ -22,10 +20,6 @@
 - 📄 Know about my experiences [https://github.com/Dino-Martinez/resume/blob/main/Dino_s_Resume_1.pdf](https://github.com/Dino-Martinez/resume/blob/main/Dino_s_Resume_1.pdf)
 
 - ⚡ Fun fact **I am in the top 0.4% of players world-wide in the video game Rocket League**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
