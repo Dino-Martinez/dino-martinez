@@ -3,15 +3,13 @@
 <h1 align="center">I'm Secundino Martinez</h1>
 <h3 align="center">A self driven full-stack developer from New York</h3>
 
-- 🔭 I’m currently working on [StarliteJS](https://github.com/Dino-Martinez/starlitejs)
+- 🔭 I’m currently working on [Tournament Hosting](https://tournaments-ten.vercel.app/)
 
-- 🌱 I’m currently learning **Docker, DevOps, Game Design**
+- 🌱 I’m currently learning **Docker, DevOps, Cross-Platform Deployment**
 
 - 👯 I’m looking to collaborate on **Full Stack/PWA projects**
 
 - 🤝 I’m looking for help with **Fun project ideas**
-
-- 👨‍💻 All of my projects are available at [https://www.makeschool.com/portfolio/dino-martinez](https://www.makeschool.com/portfolio/dino-martinez)
 
 - 💬 Ask me about **JavaScript, Algorithms, Math, Science**
 
