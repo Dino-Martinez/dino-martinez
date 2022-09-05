@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker, DevOps, Cross-Platform Deployment**
 
-- 👯 I’m looking to collaborate on **Full Stack/PWA projects**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 🤝 I’m looking for help with **Fun project ideas**
 
